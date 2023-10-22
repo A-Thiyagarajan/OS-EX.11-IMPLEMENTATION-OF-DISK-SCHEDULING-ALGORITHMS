@@ -32,7 +32,8 @@ int main() {
 }
 ```
 ## Output:
-![output](./images/fcfs.png)
+![111](https://github.com/A-Thiyagarajan/OS-EX.11-IMPLEMENTATION-OF-DISK-SCHEDULING-ALGORITHMS/assets/118707693/a2b0627a-d22c-4714-b40f-c4eb6c324ae7)
+
 ## Result:
 Thus the implementation of the program for first come first serve disc scheduling has been
 successfully executed.
@@ -82,7 +83,9 @@ int main()
 }
 ```
 ## Output:
-![](./images/sstf.png)
+
+![112](https://github.com/A-Thiyagarajan/OS-EX.11-IMPLEMENTATION-OF-DISK-SCHEDULING-ALGORITHMS/assets/118707693/5360a7ce-1bff-469f-8bfa-6940cea49683)
+
 ## Result:
 Thus the implementation of the program for shortest seek time first disc scheduling has been
 successfully executed.
@@ -169,7 +172,8 @@ int main()
 }
 ```
 ## Output:
-![](./images/scan.png)
+
+![113](https://github.com/A-Thiyagarajan/OS-EX.11-IMPLEMENTATION-OF-DISK-SCHEDULING-ALGORITHMS/assets/118707693/b8aa2986-5cc2-4bae-bfd0-cb5e0ab06f4a)
 
 ## Result:
 Thus the implementation of the program for SCAN disc scheduling has been successfully executed.
@@ -254,6 +258,8 @@ int main()
 }
 ```
 # Output:
-![](./images/look.png)
+![114](https://github.com/A-Thiyagarajan/OS-EX.11-IMPLEMENTATION-OF-DISK-SCHEDULING-ALGORITHMS/assets/118707693/832b7c41-fbad-4815-8f6c-ac7e2f273301)
+
+
 ## Result:
 Thus the implementation of the program for LOOK disc scheduling has been successfully executed.
